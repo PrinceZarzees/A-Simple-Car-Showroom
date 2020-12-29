@@ -1,0 +1,4 @@
+manufacturer,password
+cisco,thread
+g567,1212
+tex36,32114
